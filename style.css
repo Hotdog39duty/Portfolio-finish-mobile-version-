@@ -57,7 +57,6 @@ button a {
   border-radius: 0 0 0 80px;
 }
 
-
 .headline {
   background-image: url(/header-shapes\ mobile.png);
   background-size: 375px;
@@ -76,7 +75,6 @@ button a {
   border-radius: 0 0 8px 0;
 }
 
-
 h1 {
   width: 300px;
   height: 150px;
@@ -94,7 +92,6 @@ h1 {
   flex-grow: 0;
 }
 
-
 .details {
   width: 300px;
   height: 140px;
@@ -107,7 +104,6 @@ h1 {
   margin-top: -1px;
 }
 
-
 h4 {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
@@ -118,7 +114,6 @@ h4 {
   color: #7f8cff;
   margin: 0;
 }
-
 
 .social ul {
   display: flex;
@@ -131,13 +126,11 @@ h4 {
   padding: 0;
 }
 
-
 .soical i {
   color: #505f79;
   text-decoration: none;
   padding-right: 18px;
 }
-
 
 .work {
   display: grid;
@@ -146,7 +139,6 @@ h4 {
   margin: -27px;
   margin-top: 80px;
 }
-
 
 .item {
   background-color: white;
@@ -161,7 +153,6 @@ h4 {
   margin-bottom: 80px;
 }
 
-
 .taill {
   margin-top: 0;
   margin-bottom: -12px;
@@ -172,7 +163,6 @@ h4 {
   margin-top: -1px;
   margin-bottom: -15px;
 }
-
 
 .item img {
   width: 295px;
@@ -192,7 +182,6 @@ h4 {
   margin-left: 12px;
 }
 
-
 .type {
   display: flex;
   flex-direction: row;
@@ -207,7 +196,6 @@ h4 {
   margin-left: 13px;
 }
 
-
 .type img {
   width: 8px;
   height: 8px;
@@ -215,17 +203,14 @@ h4 {
   border-radius: 30px;
 }
 
-
 .t1 {
   color: #344563;
 }
-
 
 .t3,
 .t2 {
   color: #7a867a;
 }
-
 
 .text {
   width: 275px;
@@ -238,7 +223,6 @@ h4 {
   color: #344563;
   margin: 0 0 2px 12px;
 }
-
 
 .tech {
   display: flex;
@@ -253,7 +237,6 @@ h4 {
   list-style: none;
 }
 
-
 .lang {
   height: 26px;
   color: #6070ff;
@@ -265,7 +248,6 @@ h4 {
   border-radius: 8px;
   font-weight: 500;
 }
-
 
 button {
   background-color: white;
@@ -282,11 +264,9 @@ button {
   margin-top: 20px;
 }
 
-
 .item button {
   margin-left: 12px;
 }
-
 
 button:hover {
   color: white;
@@ -294,12 +274,10 @@ button:hover {
   box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
 }
 
-
 button:active {
   background: #2230d2;
   color: white;
 }
-
 
 .about {
   background-image: none;
@@ -312,7 +290,6 @@ button:active {
   justify-content: space-around;
 }
 
-
 .about h2 {
   color: #172b4d;
   font-family: 'Poppins', sans-serif;
@@ -322,22 +299,18 @@ button:active {
   line-height: 52px;
 }
 
-
 .seee {
   width: 180px;
 }
-
 
 .see {
   margin-top: 4px;
 }
 
-
 .mm ul {
   font-size: 25px;
   margin-bottom: -30px;
 }
-
 
 .fram {
   display: flex;
@@ -348,13 +321,11 @@ button:active {
   align-items: center;
 }
 
-
 .fram span {
   width: 30px;
   color: #7a867a;
   margin-left: -130px;
 }
-
 
 .fram h4 {
   width: 237px;
@@ -365,7 +336,6 @@ button:active {
   line-height: 24px;
   font-style: normal;
 }
-
 
 .listframe {
   display: flex;
@@ -401,7 +371,6 @@ button:active {
   border-radius: 80px 0 0 0;
   margin-top: -30px;
 }
-
 
 .contact h2 {
   font-family: 'Poppins', sans-serif;
