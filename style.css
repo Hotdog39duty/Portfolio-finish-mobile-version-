@@ -70,7 +70,7 @@ button a {
   gap: 12px;
   width: 350px;
   height: 424px;
-  left: calc(45% - 375 / 2);
+  left: calc(45% - 375px / 2);
   top: 20px;
   border-radius: 0 0 8px 0;
 }
@@ -157,7 +157,6 @@ h4 {
   margin-top: 0;
   margin-bottom: -12px;
 }
-
 
 .tonic {
   margin-top: -1px;
@@ -374,5 +373,7 @@ button:active {
 .contact h2 {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
-  font-weight: 700
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 20px;
 }
