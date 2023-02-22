@@ -30,7 +30,8 @@
 # 📖 [The Portfolio] <a name="about-project"></a>
 
 
-**[The Portfolio]** is a...
+**[The Portfolio]** is a mobile website that suits the phone without being to big or small for the 
+                    screen user.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -116,9 +117,9 @@ To run tests, run the following command:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Hotdog39duty/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/khanya_mvoko/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Khanya-mvoko/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Hotdog39duty/Hotdog39duty)
+- Twitter: [@twitterhandle](https://twitter.com/khanya_mvoko/khanya_mvoko)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Khanya-mvoko/Khanya-mvoko)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
