@@ -29,18 +29,14 @@ nav {
   justify-content: space-between;
   align-items: center;
   align-content: center;
-  padding: 12px;
-  margin-top: -5%;
+  padding: 15px;
+  margin-top: 0%;
 }
 
 .logo {
-  text-decoration: none;
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 20px;
-  color: #6070ff;
   display: flex;
   align-items: center;
   text-align: center;
