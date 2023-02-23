@@ -28,7 +28,9 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  align-content: center;
+  padding: 12px;
+  margin-top: -5%;
 }
 
 .logo {
@@ -36,9 +38,15 @@ nav {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 10px;
   line-height: 20px;
   color: #6070ff;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  top: 10px;
+  left: 12px;
+  width: 76%;
 }
 
 .list {
@@ -78,7 +86,7 @@ button a {
 }
 
 .headline {
-  background-image: url(/header-shapes\ mobile.png);
+  background-image: url(images/background.png);
   background-size: 375px;
   background-repeat: no-repeat;
   background-position: left + 10px;
@@ -376,14 +384,17 @@ button:active {
 }
 
 .contact {
-  background-color: #396df2;
-  background-image: url(/images/bg_bout.png);
+  background-color: #6070ff;
+  background-image: url(/images/background.png);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 402px;
-  height: 538px;
+  position: absolute;
+  width: 375px;
+  height: 779px;
+  left: auto;
+  top: 5410px;
   gap: 15px;
   border: solid transparent;
   border-radius: 80px 0 0 0;
