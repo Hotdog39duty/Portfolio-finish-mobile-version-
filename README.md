@@ -1,1 +1,1 @@
-# Portfolio-setup-and-mobile-firs
+# Portfolio-setup-and-mobile-first
